@@ -1,0 +1,23 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+	<factura numero="999">
+		<datos_generales>
+			<fecha>  12-01-2005 </fecha>
+			<pedido> 731 </pedido>
+			<pago> efectivo </pago>
+		</datos_generales>
+		<datos_emisor>
+			<nombre> Equipos Digitales S.L. </nombre>
+			<direccion> av. Valladolid </direccion>
+			<cp> Madrid, 28015 </cp>
+			<cif> q-9876543 </cif>
+			<telefono> 917776699 </telefono>
+			<fax> 91.777.66.99 </fax>
+		<datos_cliente numero="879">
+			<nombre>  Darío Bueno Gutiérrez </nombre>
+			<direccion_envio> Av. Oporto nº7 4ºd </direccion_envio>
+			<poblacion> Madrid </poblacion>
+			<cp> 28043 </cp>
+			<provincia> madrid </provincia>
+		</datos_cliente>
+		<datos_factura>
+			

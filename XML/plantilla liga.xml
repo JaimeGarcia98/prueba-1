@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<liga_santander>
+		<equipo nombre="real madrid">
+			<presidente> florentino perez </presidente>
+			<estadio> santiago bernabeu </estadio>
+			<presidente_honorifico> Francisco gento </presidente_honorifico>
+			<entrenador> zinedine zidane </entrenador>
+			<plantilla numero_jugadores="24">
+			
+				<jugador numero="1">
+					<nombre> alphonse </nombre>
+					<apellido> Areola </apellido>
+					<edad> 26 </edad>
+					<posicion> portero </posicion>
+				</jugador>
+
+				<jugador numero="13">
+					<nombre> Thibaut </nombre>
+					<apellido> Courtois </apellido>
+					<edad> 27 </edad>
+					<posicion> portero </posicion>
+					</jugador>
+
+				<jugador numero="2">
+						<nombre> Daniel </nombre>
+						<apellido> Carvajal </apellido>
+						<edad> 27 </edad>
+						<posicion> lateral derecho </posicion>
+				</jugador>
+
+				<jugador numero="19">
+						<nombre> Alvaro </nombre>
+						<apellido> Odriozola </apellido>
+						<edad> 23 </edad>
+						<posicion> lateral derecho </posicion>
+				</jugador>
+
+				<jugador numero="4">
+						<nombre> Sergio </nombre>
+						<apellido> Ramos </apellido>
+						<edad> 33 </edad>
+						<posicion> central </posicion>
+				</jugador>
+
+				<jugador numero="5">
+						<nombre> Raphael </nombre>
+						<apellido> Varane </apellido>
+						<edad> 26 </edad>
+						<posicion> ccentral </posicion>
+				</jugador>
+
+				<jugador numero="3">
+						<nombre> Eder </nombre>
+						<apellido> Militao </apellido>
+						<edad> 21 </edad>
+						<posicion> central </posicion>
+				</jugador>
+
+				<jugador numero="12">
+						<nombre> Marcelo </nombre>
+						</apellido> 
+						<edad> 31 </edad>
+						<posicion> lateral izquierdo </posicion>
+				</jugador>
+
+				<jugador numero="10">
+						<nombre> Luka </nombre>
+						<apellido> Modric </apellido>
+						<edad> 34 </edad>
+						<posicion> centrocampista </posicion>
+				</jugador>
+				<jugador numero="7">
+						<nombre> Eden </nombre>
+						<apellido> Hazard </apellido>
+						<edad> 28 </edad>
+						<posicion> extremo </posicion>
+				</jugador>
+			</plantilla>
+		</equipo>
+	</liga_santander>
+
+
+
+
+
+
+
+
+
+
+
+
