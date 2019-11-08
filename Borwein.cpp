@@ -1,4 +1,4 @@
-/* Programa para averiguar el método
+﻿/* Programa para averiguar el método
 de Borwein */
 
 #include <iostream>
@@ -26,3 +26,6 @@ int main () {
 // Mostramos las salidas del programa.
 	cout << "el resultado de pi0 es: " << pi0 << " El resultado de pi1 es : " << pi1 << " y por último,  el resultado de pi2 es de: " << pi2 << endl;
 }
+
+
+// no me copieis a papi Borwein chicos
